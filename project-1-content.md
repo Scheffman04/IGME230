@@ -53,5 +53,10 @@ Im Ray Schefferine, a second year GDD student from Long Island, NY. Im very inte
 - Space cruiser image sourced from : [cgtrader](https://www.cgtrader.com/3d-models/space/spaceship/space-cruiser)
 - Concept Images made by myself
 - Navbar tutorial from: [w3schools](w3schools.com)
+
+# Project 1 Game
+[Landing Page](https://people.rit.edu/rls2819/230/project1/) [Proposal](https://people.rit.edu/rls2819/230/project1/proposal.html) [Documentation](https://people.rit.edu/rls2819/230/project1/documentation.html) [Project](https://people.rit.edu/rls2819/230/project1/project.html)
 ===================================================
+
+Game goes here
            
