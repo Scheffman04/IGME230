@@ -7,6 +7,7 @@ Hyper-Drive is a game in which the player travels through the hyper drive rails 
 Your reflexes will be tested as you must make split second inputs to dodge the debris, or hope you're lucky enough to have your blaster charged to blast right through! 
 
 ![A sleek Space Cruiser][spaceCruiser]
+
 [spaceCruiser]:
 ===================================================
 
@@ -40,6 +41,7 @@ Im Ray Schefferine, a second year GDD student from Long Island, NY. Im very inte
 ![A sleek Space Cruiser][HyperDrive1]   ![A sleek Space Cruiser][HyperDrive2]
 
 [HyperDrive1]:
+
 [HyperDrive2]:
 
 ===================================================
