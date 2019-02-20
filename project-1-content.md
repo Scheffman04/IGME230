@@ -8,5 +8,4 @@ Your reflexes will be tested as you must make split second inputs to dodge the d
 
 ![A sleek Space Cruiser][spaceCruiser]
 [spaceCruiser]:
-
 =================================================
